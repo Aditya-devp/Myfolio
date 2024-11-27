@@ -6,7 +6,7 @@ const about = {
   role: 'Aspiring Software Developer',
   description:
     '',
-  resume: 'https://drive.google.com/file/d/1Boce7uhPPDWxIjB8_76xJ6BMeVxFJ2Jf/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1RZTnn2au_hia-3xC2cqu4dUE0fz9l5Kt/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/aditya-singh-97396a21a/',
     github: 'https://github.com/Aditya-devp',
@@ -18,26 +18,26 @@ const about = {
 const projects = [
  
   {
-    name: 'Whisper Wind',
+    name: 'Conversa',
     description:
-      'Developed a web app using Node.js for the anonymous submission of user secrets, ensuring a simple and friendly user interface',
-    stack: ['Node.js', 'Express', 'MongoDB'],
-    sourceCode: 'https://github.com/Aditya-devp/WhisperWind',
+      'Conversa Conversa is a real-time chat application that facilitates instant communication between users.It provide a seamless and interactive messaging experience.',
+    stack: ['Node.js', 'Express','MongoDB', 'React'],
+    sourceCode: 'https://github.com/Aditya-devp/Conversa',
   },
   {
-    name: 'TaskTrack',
+    name: 'BlogBreeze',
     description:
-      'Developed a feature-rich to-do list application using Node.js.The app provides a user-friendly interface for managing tasks, allowing users to create, edit, and mark tasks as completed.',
-    stack: ['Node.js', 'Express', 'MongoDB'],
-    sourceCode: 'https://github.com/Aditya-devp/TaskTrack',
+      'BlogBreeze BlogBreeze is a dynamic blog application that allows users to create and share blogs with ease. Users can engage with content by posting comments and exploring blogs through various categories, making it simple to find topics of interest.',
+    stack: ['Node.js', 'Express', 'MongoDB','React'],
+    sourceCode: 'https://github.com/Aditya-devp/BlogBreeze',
     
   },
   {
-    name: 'Drums Game',
+    name: 'Sortify',
     description:
-      'Designed and developed an interactive drums game using HTML, CSS, and JavaScript.',
+      'Sortify is a web-based sorting visualizer that allows users to interactively visualize various sorting algorithms. This project aims to provide a hands-on learning experience for understanding how different sorting algorithms work.',
     stack: ['HTML', 'CSS', 'JS'],
-    sourceCode: 'https://github.com/Aditya-devp/Drums-game',
+    sourceCode: 'https://github.com/Aditya-devp/Sortify',
     
   },
 ]
