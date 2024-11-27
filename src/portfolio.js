@@ -1,5 +1,4 @@
-const header = {
-}
+const header = {}
 
 const about = {
   name: 'Aditya Singh',
